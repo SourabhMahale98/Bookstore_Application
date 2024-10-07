@@ -37,10 +37,10 @@ Make sure you have the following installed on your machine:
 Java JDK (version 8 or higher)
 Maven (for dependency management)
 Git (for cloning the repository)
-MySQL (for production database, if needed)
+
+
 🚀 Steps to Clone and Run the Application
-
-
+------------------------------------------------------------------------------------------------------------------------------
 *Clone the repository: 
 Open your terminal and run the following command to clone the repository:
 
