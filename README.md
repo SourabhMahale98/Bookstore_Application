@@ -15,3 +15,7 @@ H2 Database
 MySQL (Database)
 Maven (Build Tool),
 Thymeleaf etc.
+
+For accessing Admin Access:
+user : admin
+password : admin
