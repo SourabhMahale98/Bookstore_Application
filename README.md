@@ -17,5 +17,6 @@ Maven (Build Tool),
 Thymeleaf etc.
 
 For accessing Admin Access:
+
 user : admin
 password : admin
